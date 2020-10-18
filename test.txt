@@ -2,3 +2,4 @@ pierwszy wiersz
 drugi wiersz
 trzeci wiersz
 wszystkie cztery jupitery2
+Nowa Funkcja
